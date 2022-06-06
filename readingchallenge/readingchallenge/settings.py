@@ -104,10 +104,10 @@ WSGI_APPLICATION = 'readingchallenge.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'd5h5peu4vjlolt',
-        'USER': 'blnmrlovozgdcd',
-        'PASSWORD': '540b7bee57df5f44ad4435d9297cd6983e54a219962241bbe24a8035b69248a4',
-        'HOST': 'ec2-54-159-176-167.compute-1.amazonaws.com',
+        'NAME': 'd19pe1k3ct5rl4',
+        'USER': 'iwxmihlmdhlibl',
+        'PASSWORD': 'bc265d07a759b7cb364b197ab6c1d57bcb1494385b83c65760417c379e2b397b',
+        'HOST': 'ec2-54-75-184-144.eu-west-1.compute.amazonaws.com',
         'PORT': '5432'
     }
 }
