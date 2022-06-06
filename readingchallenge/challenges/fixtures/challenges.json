@@ -1,0 +1,16 @@
+[
+    {
+        "model": "challenges.Challenge",
+        "pk": 1,
+        "fields": {
+            "title": "First Challenge",
+            "author": 1,
+            "pitch": "This challenge is about challenges",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "website": "www.google.com",
+            "image_url": "https://www.gettyimages.com.au/photos/stack-of-books",
+            "date_created": "2020-07-01T10:03:56Z",
+            "deadline": "2020-07-12T04:06:50Z"
+        }
+    }
+]
